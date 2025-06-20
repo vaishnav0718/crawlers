@@ -1,0 +1,11 @@
+[project]
+name = "langgraph-crawler"
+version = "0.1.0"
+dependencies = [
+    "langgraph",
+    "langchain",
+    "openai",
+    "beautifulsoup4",
+    "requests",
+    "google-search-results",
+]
